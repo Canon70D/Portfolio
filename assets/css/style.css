@@ -124,6 +124,11 @@ h4 {
   text-align: center;
 }
 
+.active-work figcaption {
+  font-size: x-large;
+  font-weight: bolder;
+}
+
 /* .active-work img {
   width: 50%;
 } */
@@ -141,7 +146,7 @@ h4 {
   min-height: 400px;
 }
 .single-work {
-  height: 365px;
+  height: 85%;
   width: 335px;
   padding: 20px 35px;
   background-color: rgb(6, 190, 247);
